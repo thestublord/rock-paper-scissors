@@ -63,5 +63,5 @@ function game() {
 
 
 
-
+game();
 
